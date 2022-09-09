@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int a=5,b=3;
-    int t=a+b;
+    int i=5,b=3;
+    int t=i+b;
     cout<<"The sum of the numbers is"<<t<<endl;
-}g
+}
